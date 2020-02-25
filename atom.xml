@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://20we7q.coding-pages.com</id>
     <title>STIFREDM</title>
-    <updated>2020-02-25T10:35:50.875Z</updated>
+    <updated>2020-02-25T11:11:36.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://20we7q.coding-pages.com"/>
     <link rel="self" href="http://20we7q.coding-pages.com/atom.xml"/>
@@ -46,6 +46,22 @@
 <p>8、<strong>饭圈化趋势不可阻挡</strong>。</p>
 </blockquote>
 <p><em>侵删</em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://20we7q.coding-pages.com/post/about/</id>
+        <link href="http://20we7q.coding-pages.com/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站-暂时还没想好嘿嘿">🏠 关于本站  暂时还没想好嘿嘿</h2>
+<h2 id="博主是谁-stifredm">👨‍💻 博主是谁  STIFREDM</h2>
+<h2 id="兴趣爱好-扯皮">⛹ 兴趣爱好   扯皮</h2>
+<h2 id="联系我呀-stifredmprotoncom">📬 联系我呀  stifredm@proton.com</h2>
+<p><em>会被国内主流邮箱识别为垃圾邮件所以请到垃圾箱看看吧（可怜巴巴）😢</em></p>
 ]]></content>
     </entry>
 </feed>
