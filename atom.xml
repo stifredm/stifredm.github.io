@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://20we7q.coding-pages.com</id>
+    <id>https://stifredm.github.io/</id>
     <title>STIFREDM</title>
-    <updated>2020-02-25T11:22:11.558Z</updated>
+    <updated>2020-02-27T10:44:49.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://20we7q.coding-pages.com"/>
-    <link rel="self" href="http://20we7q.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://stifredm.github.io/"/>
+    <link rel="self" href="https://stifredm.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://20we7q.coding-pages.com/images/avatar.png</logo>
-    <icon>http://20we7q.coding-pages.com/favicon.ico</icon>
+    <logo>https://stifredm.github.io/images/avatar.png</logo>
+    <icon>https://stifredm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, STIFREDM</rights>
     <entry>
         <title type="html"><![CDATA[有感]]></title>
-        <id>http://20we7q.coding-pages.com/post/you-gan/</id>
-        <link href="http://20we7q.coding-pages.com/post/you-gan/">
+        <id>https://stifredm.github.io/post/you-gan/</id>
+        <link href="https://stifredm.github.io/post/you-gan/">
         </link>
         <updated>2020-02-25T10:21:47.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>http://20we7q.coding-pages.com/post/about/</id>
-        <link href="http://20we7q.coding-pages.com/post/about/">
+        <id>https://stifredm.github.io/post/about/</id>
+        <link href="https://stifredm.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
